@@ -1,5 +1,5 @@
 # This is the CMakeLists.txt template for C++17
-project(YourProjectName)
+project(AppVeyorDemo)
 # Require minimal cmake version.
 cmake_minimum_required(VERSION 3.5)
 # Generate a Compilation Database.
